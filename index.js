@@ -1,5 +1,5 @@
 process.env.GOOGLE_APPLICATION_CREDENTIALS =
-  "/home/truong/Projects/gcloud-tts-sample/serviceAccount.json";
+  "trungkien.json";
 
 // Imports the Google Cloud client library
 const textToSpeech = require("@google-cloud/text-to-speech");
